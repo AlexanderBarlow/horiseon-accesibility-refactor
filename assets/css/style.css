@@ -1,29 +1,30 @@
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Adds background color */
 body {
     background-color: #d9dcd6;
 }
-
+/*Adds font and color to the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Puts the list inline with H1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*Changes the color of 'seo' in 'Horiseon' in h1 */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Changes font and font size of nav bar text */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +32,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Removes bullet point from nav bar */
 .header div ul {
     list-style-type: none;
 }
-
+/*inlining the header */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Adds color to articles */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Changes font sizes for paragraphs */
 p {
     font-size: 16px;
 }
-
+/*Adds dimension for inserted image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-position: center;
     background-image: url("../images/digital-marketing-meeting.jpg");
 }
-
+/*Position image */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Positions image */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*Adjusts stucture of section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Adjusts structure of section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,55 +86,55 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*Adjusts structure of section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Adjusts structure of section */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Adjusts structure of section */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Adjusts structure of section */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Adjusts structure of section */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Adjusts structure of section */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Adjusts structure of section */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Adjusts structure of section */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Adjusts structure of section */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Adjusts height, color and font of section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Adjusts height, color and font of section*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Adjusts height, color and font of section */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,34 +161,34 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Adds height restriction */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/*Adds height restriction */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/*Adds height restriction  */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*Adds margin and font size */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Adds margin and font size */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Adds margin and font size */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Changed class to elemental for semantic purposes */
 footer {
     padding: 30px;
     clear: both;
