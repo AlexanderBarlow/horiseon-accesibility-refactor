@@ -10,7 +10,7 @@ The website needed improvements on its accessibility features. These improvement
 Navigate to the website via this url: .
 
 
-    C:\Users\alexb\bootcamp\horiseon-accesibility-refactor\assets\images
+![Website Screenshot](./assets/images/screenshot.jpg"Screenshot")
 
 ## Credits
 
