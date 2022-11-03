@@ -10,7 +10,7 @@ The website needed improvements on its accessibility features. These improvement
 Navigate to the website via this url: https://alexanderbarlow.github.io/horiseon-accesibility-refactor/ .
 
 
-![Website Screenshot](/assets/images/screenshot%201.jpg"Screenshot")
+![Website Screenshot](./assets/images/screenshot%201.jpg)
 
 ## License
 
